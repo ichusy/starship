@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0.4" y2="1"><stop offset="0" stop-color="#3b5bff"/><stop offset="1" stop-color="#1a2a9e"/></linearGradient>
+<radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.35"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+<linearGradient id="st" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#dfe6ff"/></linearGradient>
+</defs>
+<rect x="100" y="100" width="824" height="824" rx="185" fill="url(#bg)"/>
+<circle cx="512" cy="520" r="360" fill="url(#glow)"/>
+<circle cx="250" cy="260" r="7" fill="#fff" opacity=".7"/><circle cx="790" cy="300" r="5" fill="#fff" opacity=".6"/><circle cx="760" cy="780" r="6" fill="#fff" opacity=".5"/><circle cx="270" cy="760" r="4" fill="#fff" opacity=".6"/>
+<polygon points="512.0,230.0 587.2,426.4 797.3,437.3 633.7,569.6 688.3,772.7 512.0,658.0 335.7,772.7 390.3,569.6 226.7,437.3 436.8,426.4" fill="url(#st)" stroke="#ffffff" stroke-width="22" stroke-linejoin="round"/>
+</svg>
